@@ -1,6 +1,5 @@
 __author__ = 'jinfeng'
 
-import random
 import unittest
 import hello
 
